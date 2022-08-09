@@ -5,5 +5,5 @@ Stuff I learned so far
   ..C language
   
 
-(Yeah...,I will have to  update this later )
+(Yeah...,I will have to  improve this later )
 
