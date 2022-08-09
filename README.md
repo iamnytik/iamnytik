@@ -8,7 +8,7 @@
 - email iamnytik@yahoo.com
 -       nytikny@gmail.com
 -       discord
-
+ I will have to  update this later 
 <!---
 Fat-Krow/Fat-Krow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
