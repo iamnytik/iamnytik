@@ -3,7 +3,7 @@
  I'm  a young and highly motivated techie with special passion in Cyber and Web-Security ,Cloud Computing, Linux Administration and DevOps 
 currently  studying in PES University 7th semester. 
 
-Skills: PYTHON / JAVA / JS / HTML / CSS 
+Skills: PYTHON / JAVA / JS / HTML / CSS / BASH SHELL SCRIPT
 
 - 🔭 I’m currently working on this page. 
 
